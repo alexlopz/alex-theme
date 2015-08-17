@@ -267,6 +267,10 @@ nav ul li a
 	width: 90%;
 
 }
+#contenido .item .votacion a
+{
+	text-decoration: none;
+}
 
 #contenido .item .votacion .comentarios_item, 
 #contenido .item .votacion .guardar_item
